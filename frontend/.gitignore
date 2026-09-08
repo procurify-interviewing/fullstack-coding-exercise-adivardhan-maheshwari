@@ -1,0 +1,5 @@
+node_modules/
+dist/
+
+# yarn.lock is the lockfile; a stray npm install must not commit a second one.
+package-lock.json

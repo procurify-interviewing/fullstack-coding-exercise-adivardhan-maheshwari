@@ -1,0 +1,29 @@
+:root {
+  color-scheme: light dark;
+  font-family:
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 1.2rem;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 60rem;
+  padding: 2rem 1.5rem;
+}
+
+.probe {
+  background: rgba(127, 127, 127, 0.12);
+  border-radius: 6px;
+  overflow-x: auto;
+  padding: 1rem;
+}
